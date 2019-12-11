@@ -21,11 +21,11 @@ Email：1246810861@qq.com
 
 服务端：
 
-php、Mysql、SqlServer、Apache、Nginx、Memcached、Redis
+php、Mysql、SqlServer、Apache、Nginx、Memcached、Redis、socket
 
 前端：
 
-JavaScript、CSS3、AngularJS、Jquery、AmazeUI、HTML5 （前端水平--初级）
+JS、CSS3、Jquery、AmazeUI、HTML5 、VUE
 
 服务器：
 
