@@ -1,16 +1,16 @@
-龚超 - 资料
+XX - 资料
 
 基本信息：
 
-电话：183-2099-5460
+电话：183-xxxx-xxxx
 
-Email：1246810861@qq.com
+Email：12345678@qq.com
 
-年龄：27
+年龄：28
 
 性别：男
 
-从业时长：6年
+从业时长：8年
 
 任职岗位：半个架构师，程序开发者，半个维护
 
@@ -25,7 +25,7 @@ php、Mysql、SqlServer、Apache、Nginx、Memcached、Redis、socket
 
 前端：
 
-JS、CSS3、Jquery、AmazeUI、HTML5 、VUE
+JS、CSS3、Jquery、AmazeUI、HTML5 、VUE2,VUE3
 
 服务器：
 
@@ -37,7 +37,7 @@ Ubuntu、Windows Server
 
 参与过15天封闭研发速成项目
 
-做过电商网站
+主导开发过电商网站
 
 写过开放平台及配套安全接入api
 
@@ -52,6 +52,8 @@ Ubuntu、Windows Server
 写过APP（uniapp）
 
 做过第四方支付对接平台
+
+带过团队
 
 工作经历：
 2013.09  -  2014.01  北京市影彩众宽文化传播有限公司
