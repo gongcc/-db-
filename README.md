@@ -12,7 +12,7 @@ Email：12345678@qq.com
 
 从业时长：8年
 
-任职岗位：半个架构师，程序开发者，半个维护
+任职岗位：半个架构师,程序开发者，半个维护,半个测试
 
 
 
@@ -21,11 +21,11 @@ Email：12345678@qq.com
 
 服务端：
 
-php、Mysql、SqlServer、Apache、Nginx、Memcached、Redis、socket
+php、Mysql、SqlServer、Apache、Nginx、Memcached、Redis、socket、Python
 
 前端：
 
-JS、CSS3、Jquery、AmazeUI、HTML5 、VUE2,VUE3
+JS、CSS3、Jquery、AmazeUI、HTML5 、VUE2,VUE3、uni-app
 
 服务器：
 
